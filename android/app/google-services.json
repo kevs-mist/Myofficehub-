@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "816688949516",
+    "firebase_url": "https://myofficehub-bb2f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myofficehub-bb2f8",
+    "storage_bucket": "myofficehub-bb2f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816688949516:android:7de36330d76ff7dfc14129",
+        "android_client_info": {
+          "package_name": "com.Ktech.myofficehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcFHQvreKNTzSUKjh4JwlKcr0gwFSs1u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816688949516:android:26e2d41b9e99e0d1c14129",
+        "android_client_info": {
+          "package_name": "com.myofficehub.myofficehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcFHQvreKNTzSUKjh4JwlKcr0gwFSs1u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

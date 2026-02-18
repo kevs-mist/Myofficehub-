@@ -1,0 +1,6 @@
+@echo off
+echo Starting Backend...
+start "OfficeHub Backend" cmd /k "cd lib\Backend && dart run lib\main.dart"
+
+echo Starting Flutter App...
+start "OfficeHub App" cmd /k "flutter run"

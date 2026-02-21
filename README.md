@@ -205,24 +205,7 @@ flutter build web --release
 - ✅ Keyboard-aware scrolling
 - ✅ Orientation-ready layouts
 
-## 🔄 State Management Pattern
 
-### Riverpod 3.x (Notifier Pattern)
-```dart
-// Provider definition
-final adminDashboardProvider = NotifierProvider<AdminDashboardNotifier, AdminDashboardState>(() {
-  return AdminDashboardNotifier();
-});
-
-// Usage in widgets
-class MyWidget extends ConsumerWidget {
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final state = ref.watch(adminDashboardProvider);
-    // Use state...
-  }
-}
-```
 
 ## 📦 Project Structure Highlights
 
